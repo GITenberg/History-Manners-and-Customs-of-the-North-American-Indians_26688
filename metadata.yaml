@@ -1,0 +1,38 @@
+_repo: History-Manners-and-Customs-of-the-North-American-Indians_26688
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Old Humphrey
+    aliases:
+    - Mogridge, George
+    - Humphrey, Old
+    birthdate: 1787
+    deathdate: 1854
+    gutenberg_agent_id: '32174'
+    url: http://www.gutenberg.org/2009/agents/32174
+  editor:
+    agent_name: Summers, Thomas O. (Thomas Osmond)
+    aliases:
+    - Summers, T. O. (Thomas Osmond)
+    - Summers, Thomas Osmond
+    birthdate: 1812
+    deathdate: 1882
+    gutenberg_agent_id: '32175'
+    url: http://www.gutenberg.org/2009/agents/32175
+description: ''
+gutenberg_issued: '2008-09-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26688'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E011'
+- !lcsh 'Indians of North America'
+title: History, Manners, and Customs of the North American Indians
+url: http://www.gutenberg.org/ebooks/26688
